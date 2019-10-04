@@ -1,3 +1,5 @@
+package baddependcy
+
 import (
        "fmt"
        "github.com/jfrog-solutiontest/modtest"
